@@ -60,7 +60,7 @@
         android:id="@+id/tvPlayerOneName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="72dp"
         android:text="Casa"
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="@+id/tvPlayerOneScore"

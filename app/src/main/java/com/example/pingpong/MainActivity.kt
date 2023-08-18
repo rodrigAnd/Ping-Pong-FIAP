@@ -85,7 +85,6 @@ class MainActivity : AppCompatActivity() {
                 }
             }
 
-
             // Create the AlertDialog
             builder.create()
         }
