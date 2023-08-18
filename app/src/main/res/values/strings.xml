@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ping Pong</string>
+    <string name="tv_title_player">Ping Pong X</string>
+    <string name="tv_init_game_player">COMEÇAR PARTIDA</string>
+    <string name="tv_fill_player">PREENCHA OS CAMPOS</string>
+    <string name="tv_dev_code_player">desenvolvido por Rodrigo Guilherme</string>
+    <string name="btnStart_title_player">COMEÇAR</string>
+    <string name="btnPoint">PONTO</string>
+    <string name="btnFinishGame">TERMINAR PARTIDA</string>
+    <string name="btnRevengeGame">REVANCHE</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="empate">Empate</string>
+    <string name="vitoria">Vitória %s</string>
+</resources>
